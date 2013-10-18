@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="Helsinki Hacklab Logo Open Day.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/zzorn/documents/hacklabs finland logo gray small.png"
+   inkscape:export-xdpi="25.076605"
+   inkscape:export-ydpi="25.076605"
+   version="1.1">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3625"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3672"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3704"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3704-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3704-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3704-5"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3829"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3861"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3898"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3926"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3954"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3982"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98825293"
+     inkscape:cx="480.66293"
+     inkscape:cy="610.3272"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="1326"
+     inkscape:window-height="901"
+     inkscape:window-x="219"
+     inkscape:window-y="92"
+     inkscape:window-maximized="0"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2389"
+       visible="true"
+       enabled="true"
+       empspacing="5"
+       snapvisiblegridlinesonly="true"
+       spacingx="1px"
+       spacingy="1px"
+       dotted="true"
+       originx="0px"
+       originy="0px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="color icon"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(0,-308.2677)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3203"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><flowRegion
+         id="flowRegion3205"><rect
+           id="rect3207"
+           width="291.42902"
+           height="118.69292"
+           x="26.263966"
+           y="562.43817" /></flowRegion><flowPara
+         id="flowPara3209" /></flowRoot>  </g>
+  <g
+     style="display:none"
+     id="g4003"
+     inkscape:groupmode="layer"
+     inkscape:label="Two color icon"
+     transform="translate(0,-308.2677)">
+    <flowRoot
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="flowRoot4005"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4007"><rect
+           y="562.43817"
+           x="26.263966"
+           height="118.69292"
+           width="291.42902"
+           id="rect4009" /></flowRegion><flowPara
+         id="flowPara4011" /></flowRoot>    <rect
+       inkscape:export-ydpi="66.201981"
+       inkscape:export-xdpi="66.201981"
+       inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+       y="380.86182"
+       x="194.3259"
+       height="3.5714285"
+       width="2.8571429"
+       id="rect4013"
+       style="fill:#000000;fill-opacity:0.00392157;stroke:none" />
+    <rect
+       y="392.36218"
+       x="125"
+       height="150.00012"
+       width="150"
+       id="rect4019"
+       style="fill:#4d4d4d;stroke:none" />
+    <rect
+       y="397.36218"
+       x="130"
+       height="140"
+       width="140"
+       id="rect4021"
+       style="fill:#000000;stroke:none" />
+    <g
+       id="g4023"
+       style="fill:#4d4d4d">
+      <rect
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         id="rect4025"
+         width="40.000031"
+         height="40.000027"
+         x="224.99997"
+         y="492.36215"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981" />
+      <rect
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         id="rect4027"
+         width="40.000034"
+         height="40.000118"
+         x="179.99997"
+         y="492.36206"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981" />
+      <rect
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         id="rect4029"
+         width="40.000011"
+         height="40.00013"
+         x="134.99001"
+         y="492.36218"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981" />
+      <rect
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         id="rect4031"
+         width="40"
+         height="40"
+         x="135"
+         y="447.36218"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981" />
+      <rect
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         id="rect4033"
+         width="40.000015"
+         height="40.000011"
+         x="135"
+         y="402.36218"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981" />
+      <rect
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         id="rect4035"
+         width="39.999981"
+         height="40.00016"
+         x="225"
+         y="402.36218"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981" />
+      <rect
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         id="rect4037"
+         width="40.000004"
+         height="40"
+         x="180"
+         y="402.36218"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981" />
+      <rect
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         id="rect4039"
+         width="40"
+         height="40"
+         x="180"
+         y="447.36218"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981" />
+      <rect
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         id="rect4041"
+         width="40"
+         height="40"
+         x="225"
+         y="447.36218"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981" />
+    </g>
+    <g
+       id="g4043">
+      <path
+         style="fill:none;stroke:#ffa000;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 210,512.36218 25,0"
+         id="path4045"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#ffa000;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 165,502.36218 22.5,-22.5 25,0 22.5,22.5"
+         id="path4047"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#ffa000;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 245,502.36218 0,-25"
+         id="path4049"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         id="path4051"
+         sodipodi:cx="175"
+         sodipodi:cy="392.36218"
+         sodipodi:rx="20"
+         sodipodi:ry="20"
+         d="m 195,392.36218 c 0,11.0457 -8.95431,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 z"
+         style="fill:none;stroke:#ffa000;stroke-width:15.24417496;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.54659555,0,0,0.5262878,104.34578,215.86675)"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981" />
+      <path
+         style="fill:none;stroke:#ffa000;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 210,432.36218 25,25"
+         id="path4053"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         id="path4055"
+         sodipodi:cx="175"
+         sodipodi:cy="392.36218"
+         sodipodi:rx="20"
+         sodipodi:ry="20"
+         d="m 195,392.36218 c 0,11.0457 -8.95431,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 z"
+         style="fill:none;stroke:#ffa000;stroke-width:15.24417496;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.54659555,0,0,0.5262878,149.34578,260.86675)"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981" />
+      <path
+         sodipodi:type="arc"
+         id="path4057"
+         sodipodi:cx="175"
+         sodipodi:cy="392.36218"
+         sodipodi:rx="20"
+         sodipodi:ry="20"
+         d="m 195,392.36218 c 0,11.0457 -8.95431,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 z"
+         style="fill:none;stroke:#ffa000;stroke-width:15.24417496;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.54659555,0,0,0.5262878,149.34576,305.86674)"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981" />
+      <path
+         sodipodi:type="arc"
+         id="path4059"
+         sodipodi:cx="175"
+         sodipodi:cy="392.36218"
+         sodipodi:rx="20"
+         sodipodi:ry="20"
+         d="m 195,392.36218 c 0,11.0457 -8.95431,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 z"
+         style="fill:none;stroke:#ffa000;stroke-width:15.24417496;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.54659555,0,0,0.5262878,59.335793,305.86682)"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981" />
+      <path
+         sodipodi:type="arc"
+         id="path4061"
+         sodipodi:cx="175"
+         sodipodi:cy="392.36218"
+         sodipodi:rx="20"
+         sodipodi:ry="20"
+         d="m 195,392.36218 c 0,11.0457 -8.95431,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 z"
+         style="fill:none;stroke:#ffa000;stroke-width:15.24417496;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.54659555,0,0,0.5262878,104.34577,305.86669)"
+         inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+         inkscape:export-xdpi="66.201981"
+         inkscape:export-ydpi="66.201981" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text small right"
+     style="display:inline"
+     transform="translate(0,-308.2677)">
+    <g
+       id="g3087"
+       transform="matrix(2.0432991,0,0,2.0432991,-240.41238,-409.35109)">
+      <g
+         inkscape:export-ydpi="359.99969"
+         inkscape:export-xdpi="359.99969"
+         inkscape:export-filename="/home/hans/Documents/helsinki_hacklab_logo_icon.png"
+         id="g3796"
+         style="display:inline">
+        <g
+           id="g3792">
+          <rect
+             y="392.36218"
+             x="125"
+             height="150.00012"
+             width="150"
+             id="rect3615"
+             style="fill:#808080;stroke:none" />
+          <rect
+             y="397.36218"
+             x="130"
+             height="140"
+             width="140"
+             id="rect3613"
+             style="fill:#333333;stroke:none" />
+        </g>
+        <g
+           id="g3768">
+          <rect
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             y="492.36215"
+             x="224.99997"
+             height="40.000027"
+             width="40.000031"
+             id="rect3187"
+             style="fill:#6d4280;fill-opacity:1;stroke:none" />
+          <rect
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             y="492.36206"
+             x="179.99997"
+             height="40.000118"
+             width="40.000034"
+             id="rect3189"
+             style="fill:#8d6e38;fill-opacity:1;stroke:none" />
+          <rect
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             y="492.36218"
+             x="134.99001"
+             height="40.00013"
+             width="40.000011"
+             id="rect3191"
+             style="fill:#a05229;fill-opacity:1;stroke:none" />
+          <rect
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             y="447.36218"
+             x="135"
+             height="40"
+             width="40"
+             id="rect3179"
+             style="fill:#a6a437;fill-opacity:1;stroke:none" />
+          <rect
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             y="402.36218"
+             x="135"
+             height="40.000011"
+             width="40.000015"
+             id="rect3177"
+             style="fill:#3f838d;fill-opacity:1;stroke:none" />
+          <rect
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             y="402.36218"
+             x="225"
+             height="40.00016"
+             width="39.999981"
+             id="rect3183"
+             style="fill:#485a86;fill-opacity:1;stroke:none" />
+          <rect
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             y="402.36218"
+             x="180"
+             height="40"
+             width="40.000004"
+             id="rect3175"
+             style="fill:#8f3d54;fill-opacity:1;stroke:none" />
+          <rect
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             y="447.36218"
+             x="180"
+             height="40"
+             width="40"
+             id="rect3181"
+             style="fill:#537a45;fill-opacity:1;stroke:none" />
+          <rect
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             y="447.36218"
+             x="225"
+             height="40"
+             width="40"
+             id="rect3185"
+             style="fill:#666666;fill-opacity:1;stroke:none" />
+        </g>
+        <g
+           id="g3757">
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             id="path3238"
+             d="m 210,512.36218 25,0"
+             style="fill:none;stroke:#ffa000;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cccc"
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             id="path3236"
+             d="m 165,502.36218 22.5,-22.5 25,0 22.5,22.5"
+             style="fill:none;stroke:#ffa000;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             id="path3240"
+             d="m 245,502.36218 0,-25"
+             style="fill:none;stroke:#ffa000;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             transform="matrix(0.54659555,0,0,0.5262878,104.34578,215.86675)"
+             style="fill:none;stroke:#ffa000;stroke-width:15.24417496;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 195,392.36218 c 0,11.0457 -8.95431,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 z"
+             sodipodi:ry="20"
+             sodipodi:rx="20"
+             sodipodi:cy="392.36218"
+             sodipodi:cx="175"
+             id="path2399"
+             sodipodi:type="arc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             id="path3244"
+             d="m 210,432.36218 25,25"
+             style="fill:none;stroke:#ffa000;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             transform="matrix(0.54659555,0,0,0.5262878,149.34578,260.86675)"
+             style="fill:none;stroke:#ffa000;stroke-width:15.24417496;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 195,392.36218 c 0,11.0457 -8.95431,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 z"
+             sodipodi:ry="20"
+             sodipodi:rx="20"
+             sodipodi:cy="392.36218"
+             sodipodi:cx="175"
+             id="path2399-1"
+             sodipodi:type="arc" />
+          <path
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             transform="matrix(0.54659555,0,0,0.5262878,149.34576,305.86674)"
+             style="fill:none;stroke:#ffa000;stroke-width:15.24417496;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 195,392.36218 c 0,11.0457 -8.95431,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 z"
+             sodipodi:ry="20"
+             sodipodi:rx="20"
+             sodipodi:cy="392.36218"
+             sodipodi:cx="175"
+             id="path2399-0"
+             sodipodi:type="arc" />
+          <path
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             transform="matrix(0.54659555,0,0,0.5262878,59.335793,305.86682)"
+             style="fill:none;stroke:#ffa000;stroke-width:15.24417496;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 195,392.36218 c 0,11.0457 -8.95431,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 z"
+             sodipodi:ry="20"
+             sodipodi:rx="20"
+             sodipodi:cy="392.36218"
+             sodipodi:cx="175"
+             id="path2399-02"
+             sodipodi:type="arc" />
+          <path
+             inkscape:export-ydpi="66.201981"
+             inkscape:export-xdpi="66.201981"
+             inkscape:export-filename="/home/zzorn/documents/helsinki_hacklab_logo_gray.png"
+             transform="matrix(0.54659555,0,0,0.5262878,104.34577,305.86669)"
+             style="fill:none;stroke:#ffa000;stroke-width:15.24417496;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 195,392.36218 c 0,11.0457 -8.95431,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 z"
+             sodipodi:ry="20"
+             sodipodi:rx="20"
+             sodipodi:cy="392.36218"
+             sodipodi:cx="175"
+             id="path2399-7"
+             sodipodi:type="arc" />
+        </g>
+      </g>
+      <text
+         inkscape:export-ydpi="190.03038"
+         inkscape:export-xdpi="190.03038"
+         inkscape:export-filename="/home/hans/Documents/helsinki_hacklab_logo_compact_text_right.png"
+         sodipodi:linespacing="125%"
+         id="text3745"
+         y="448.49823"
+         x="303.31549"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;fill:#dbb883;fill-opacity:1;stroke:#333333;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#dbb883;fill-opacity:1;stroke:#333333;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
+           y="448.49823"
+           x="303.31549"
+           id="tspan3747"
+           sodipodi:role="line">Helsinki</tspan><tspan
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#dbb883;fill-opacity:1;stroke:#333333;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
+           id="tspan3749"
+           y="538.49823"
+           x="303.31549"
+           sodipodi:role="line">Hacklab</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="text large right"
+     style="display:none"
+     transform="translate(0,-308.2677)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;fill:#dbb883;fill-opacity:1;stroke:#333333;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Bitstream Vera Sans"
+       x="317.05463"
+       y="513.82623"
+       id="text3745-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/hans/Documents/helsinki_hacklab_logo_long_text_right.png"
+       inkscape:export-xdpi="88.606544"
+       inkscape:export-ydpi="88.606544"><tspan
+         sodipodi:role="line"
+         x="317.05463"
+         y="513.82623"
+         style="font-size:128px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#dbb883;fill-opacity:1;stroke:#333333;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
+         id="tspan3883">Helsinki Hacklab</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="text small under"
+     style="display:none"
+     transform="translate(0,-308.2677)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;fill:#dbb883;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Bitstream Vera Sans"
+       x="199.24564"
+       y="592.25726"
+       id="text3745-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/hans/Documents/helsinki_hacklab_logo_small_text_under.png"
+       inkscape:export-xdpi="271.75818"
+       inkscape:export-ydpi="271.75818"><tspan
+         sodipodi:role="line"
+         x="199.24564"
+         y="592.25726"
+         id="tspan3749-3"
+         style="font-size:42px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#dbb883;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold">HELSINKI</tspan><tspan
+         sodipodi:role="line"
+         x="199.24564"
+         y="644.75726"
+         style="font-size:42px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#dbb883;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
+         id="tspan4001">HACKLAB</tspan></text>
+  </g>
+</svg>
