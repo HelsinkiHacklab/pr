@@ -3,7 +3,7 @@
 
 *Huhtikuu 2016*
 
-Helsinki Hacklab ry. on pääkaupunkiseudun edustus kansainvälisessä Hackerspace-liikeessä. Olemme itsenäinen, riippumaton ja omaehtoisesti toimiva yhteisö, joka ylläpitää avointa rakenteluun ja projektien toteuttamiseen keskittyvää työtilaa Pitäjänmäessä. Helsinki Hacklab on toiminut yli viisi vuotta pääosin jäsentensä rahoittamana, ja sillä on ollut omat työtilat kesäkuusta 2010 alkaen.
+Helsinki Hacklab ry. on pääkaupunkiseudulla toimiva harrastajayhdistys ja osa kansainvälisestä Hackerspace-liikettä. Olemme itsenäinen, riippumaton ja omaehtoisesti toimiva yhteisö, joka ylläpitää avointa rakenteluun ja projektien toteuttamiseen keskittyvää työtilaa Pitäjänmäessä. Helsinki Hacklab on toiminut yli viisi vuotta pääosin jäsentensä rahoittamana, ja sillä on ollut omat työtilat kesäkuusta 2010 alkaen. Yhdistys oli Suomessa ensimmäisten joukossa tekemässä 3D-tulostamista tutuksi laajalle yleisölle.
 
 # Työtilat
 
@@ -42,20 +42,28 @@ Lisäksi säännöllisessä viikkotoiminnassa on mahdollisuus kehittää taitoja
 ### *Unista herätetyt*, Harri Larjosto, 2013
 > Helsinki Hacklab ry. osallistui robotiikkaa sisältäneen teoksen tekniseen suunnitteluun ja toteutukseen. Esillä Vantaan taidemuseossa loppuvuodesta 2013.
 
-# Jäsenten omia projekteja
+Helsinki Hacklab ry. tekee jatkuvaa yhteistyötä ja pitää yhteyttä muiden Suomen Hacklab-yhdistysten sekä Suomen Avaruustutkimusseuran kanssa
+
+# Jäsenten omia teoksia, demoskenetoiminta
 
 ### Analog Pong, Jari Kangas, 2014
 > Täysin analogisella logiikalla toimiva ja itse suunniteltu versio klassisesta Pong-pelistä. TV-liitäntä ja ääni, yhden ja kahden pelaajan pelit.
 
-### Tapahtumiin osallistuminen ja niiden järjestäminen
+### Metronäyttö, sooda, 2013
+> Assembly Summer 2013 Real Wild -demoskenekilpailun voittaja. Helsingin metron käytöstä poistetun infonäytön uusiokäyttö ja tekniikkademo.
+
+Näiden lisäksi useita erilaisia itse rakennettuja tai suunniteltuja projekteja, laitteita, kierrätystaidetta, henkilökohtaiseen käyttöön tarkoitettuja rakenelmia ja uusia työvälineitä. Assembly Summer 2014 -tapahtumassa yhdistyksemme jäseniä oli kahden parhaan Real Wild -kilpailuteosten tekijöissä.
+
+# Tapahtumiin osallistuminen ja niiden järjestäminen
 
 Itse järjestämät tapahtumat
 * Hacklab Summit Finland 2015½, 2016½ (tulossa)
 
 Kotimaiset tapahtumat
 * Hacklab Summit Finland 2012, 2013, 2014, 2015, 2016 (Tampere)
-* Model Expo 2010, 2011, 2012, 2013, 2014, 2016 (Helsinki)
+* Model Expo 2010, 2012, 2013, 2014, 2016 (Helsinki)
 * Assembly Summer 2010, 2011, 2012, 2013, 2014, 2015 (Helsinki)
+* Alt Party 2010, 2011 (Helsinki)
 * Wärk:fest 2012, 2013 (Helsinki)
 * Mini Maker Faire 2015 (Helsinki)
 
