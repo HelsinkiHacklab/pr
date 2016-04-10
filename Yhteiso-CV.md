@@ -5,13 +5,31 @@
 
 Helsinki Hacklab ry. on pääkaupunkiseudun edustus kansainvälisessä Hackerspace-liikeessä. Olemme itsenäinen, riippumaton ja omaehtoisesti toimiva yhteisö, joka ylläpitää avointa rakenteluun ja projektien toteuttamiseen keskittyvää työtilaa Pitäjänmäessä. Helsinki Hacklab on toiminut yli viisi vuotta pääosin jäsentensä rahoittamana, ja sillä on ollut omat työtilat kesäkuusta 2010 alkaen.
 
+# Työtilat
+
+Helsinki Hacklabin työtila on kooltaan 215 neliömetrin verstas, jossa on omat huoneet puu-, metalli- ja elektroniikkatyölle. Lisäksi työtilasta löytyy koulutustila, varastointimahdollisuus sekä keittiönurkkaus. Tila on kunnostettu harrastekäyttöön talkoovoimin.
+
+# Yhdistyksen järjestämä avoin ja ilmainen koulutus
+
+### Arduinon ja elektroniikan alkeiskurssit
+> Alkeiskursseja aloittelijoille, jotka haluavat oppia elektroniikan ja sulautettujen järjestelmien rakentamisen perusteita. Pyritty järjestämään joka vuosi vähintään kerran tai useammin.
+
+### Edistyneempi digitaalitekniikka
+> Pitkäaikainen kurssisarja, joka alkaa digitaalitekniikan perusteista ja etenee opiskelijoiden ja opettajien osaamisen mukana edistyneempiin tekniikoihin (korkeakouluopetuksen vaatimustasoon verrattava kurssi).
+
+### Viikonloppu- ja teemakurssit
+> Satunnaisia kursseja vaihtelevista aiheista kiinnostuksen ja jäsenten osaamisen mukaan.
+
+Lisäksi säännöllisessä viikkotoiminnassa on mahdollisuus kehittää taitojaan ja osaamistaan jatkuvasti. Yhteisön tarkoitus on jakaa osaamista ja tietoa, ja oppiminen on siten täysin mahdollista myös kurssitilanteiden ulkopuolella.
+
 # Oma tuotanto
 
 ### Reaktori
 
 > Mediataideteos, simulaatio ja peli. Ensiesiintyminen Alternative Party -tapahtumassa 22.-24.10.2010. Esiintynyt myös muissa tilaisuuksissa, kuten Assembly Summer 2014 ja Chaos Communication Camp 2015 (Saksa).
 
-### 
+### Urpobotti
+> Kisarobotti sokkeloradalle. Valmistunut tapahtumaan Hacklab Summit Finland 2015.
 
 # Yhteistyö
 
@@ -26,6 +44,8 @@ Helsinki Hacklab ry. on pääkaupunkiseudun edustus kansainvälisessä Hackerspa
 
 # Jäsenten omia projekteja
 
+### Analog Pong, Jari Kangas, 2014
+> Täysin analogisella logiikalla toimiva ja itse suunniteltu versio klassisesta Pong-pelistä. TV-liitäntä ja ääni, yhden ja kahden pelaajan pelit.
 
 ### Tapahtumiin osallistuminen ja niiden järjestäminen
 
