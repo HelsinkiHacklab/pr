@@ -3,9 +3,7 @@
 
 *Huhtikuu 2016*
 
-Helsinki Hacklab ry. on pääkaupunkiseudulla toimiva harrastajayhdistys ja osa kansainvälisestä Hackerspace-liikettä. Olemme itsenäinen, riippumaton ja omaehtoisesti toimiva yhteisö, joka ylläpitää avointa rakenteluun ja projektien toteuttamiseen keskittyvää työtilaa Pitäjänmäessä. Helsinki Hacklab on toiminut yli viisi vuotta pääosin jäsentensä rahoittamana, ja sillä on ollut omat työtilat kesäkuusta 2010 alkaen. Yhdistys oli Suomessa ensimmäisten joukossa tekemässä 3D-tulostamista tutuksi laajalle yleisölle.
-
-# Työtilat
+Helsinki Hacklab ry. on pääkaupunkiseudulla toimiva harrastajayhdistys ja osa kansainvälisestä Hackerspace-liikettä. Olemme itsenäinen, riippumaton ja omaehtoisesti toimiva yhteisö, joka ylläpitää avointa rakenteluun ja projektien toteuttamiseen keskittyvää työtilaa Pitäjänmäessä. Helsinki Hacklab on toiminut yli viisi vuotta pääosin jäsentensä rahoittamana, ja sillä on ollut omat työtilat kesäkuusta 2010 alkaen. Yhdistys oli Suomessa ensimmäisten joukossa tekemässä 3D-tulostamista tutuksi laajalle yleisölle. Yhdistys on aktiivinen toiminnastaan tiedottaja, kirjoittaa omaa blogia sekä julkaisee useita kymmeniä valokuvia toiminnastaan joka kuukausi.
 
 Helsinki Hacklabin työtila on kooltaan 215 neliömetrin verstas, jossa on omat huoneet puu-, metalli- ja elektroniikkatyölle. Lisäksi työtilasta löytyy koulutustila, varastointimahdollisuus sekä keittiönurkkaus. Tila on kunnostettu harrastekäyttöön talkoovoimin.
 
@@ -17,10 +15,13 @@ Helsinki Hacklabin työtila on kooltaan 215 neliömetrin verstas, jossa on omat 
 ### Edistyneempi digitaalitekniikka
 > Pitkäaikainen kurssisarja, joka alkaa digitaalitekniikan perusteista ja etenee opiskelijoiden ja opettajien osaamisen mukana edistyneempiin tekniikoihin (korkeakouluopetuksen vaatimustasoon verrattava kurssi).
 
-### Viikonloppu- ja teemakurssit
-> Satunnaisia kursseja vaihtelevista aiheista kiinnostuksen ja jäsenten osaamisen mukaan.
+### CNC-koneistus
+> Kurssilla opiskeltiin kolmiakselisen CNC-työstöaseman käytön perusteita ja ohjelmakoodien kirjoittamista.
 
-Lisäksi säännöllisessä viikkotoiminnassa on mahdollisuus kehittää taitojaan ja osaamistaan jatkuvasti. Yhteisön tarkoitus on jakaa osaamista ja tietoa, ja oppiminen on siten täysin mahdollista myös kurssitilanteiden ulkopuolella.
+### Viikonloppu- ja teemakurssit
+> Satunnaisia kursseja vaihtelevista aiheista kiinnostuksen ja jäsenten osaamisen mukaan, kuten esimerkiksi piirilevyjen valmistus, retrolaitteet ja CAD-mallinnus.
+
+Lisäksi säännöllisessä viikkotoiminnassa on mahdollisuus kehittää taitojaan ja osaamistaan jatkuvasti. Yhteisön tarkoitus on jakaa osaamista ja tietoa, ja oppiminen on siten täysin mahdollista myös kurssitilanteiden ulkopuolella. Osa kursseista on tarvittaessa järjestetty myös englannksi muunkielisten jäsenien ja osallistujien toiveiden mukaan.
 
 # Oma tuotanto
 
@@ -44,7 +45,7 @@ Lisäksi säännöllisessä viikkotoiminnassa on mahdollisuus kehittää taitoja
 
 Helsinki Hacklab ry. tekee jatkuvaa yhteistyötä ja pitää yhteyttä muiden Suomen Hacklab-yhdistysten sekä Suomen Avaruustutkimusseuran kanssa
 
-# Jäsenten omia teoksia, demoskenetoiminta
+# Jäsenten omia teoksia ja demoskenetoiminta
 
 ### Analog Pong, Jari Kangas, 2014
 > Täysin analogisella logiikalla toimiva ja itse suunniteltu versio klassisesta Pong-pelistä. TV-liitäntä ja ääni, yhden ja kahden pelaajan pelit.
@@ -66,6 +67,8 @@ Kotimaiset tapahtumat
 * Alt Party 2010, 2011 (Helsinki)
 * Wärk:fest 2012, 2013 (Helsinki)
 * Mini Maker Faire 2015 (Helsinki)
+* Tekniikan päivät 2015 (Helsinki)
 
 Ulkomaiset tapahtumat
 * Chaos Communication Camp 2015 (Mildenberg, Saksa)
+* Technohack 2014 (Tallinna)
