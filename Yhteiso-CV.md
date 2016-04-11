@@ -32,7 +32,7 @@ Lisäksi säännöllisessä viikkotoiminnassa on mahdollisuus kehittää taitoja
 > Kisarobotti sokkeloradalle. Valmistunut tapahtumaan Hacklab Summit Finland 2015.
 
 ### Helsingin energiakartta
-> Sähkötalon näyttelyaulaan 2014 valmistunut infograafinen energiansiirtoa kuvaava sähköinen kartta.
+> Sähkötalon näyttelyaulaan 2014 valmistunut infograafinen energiansiirtoa kuvaava sähköinen kartta. Esittely: http://boxofducks.net/ledisplay/
 
 # Yhteistyö
 
