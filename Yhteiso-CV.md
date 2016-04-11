@@ -26,11 +26,13 @@ Lisäksi säännöllisessä viikkotoiminnassa on mahdollisuus kehittää taitoja
 # Oma tuotanto
 
 ### Reaktori
-
 > Mediataideteos, simulaatio ja peli. Ensiesiintyminen Alternative Party -tapahtumassa 22.-24.10.2010. Esiintynyt myös muissa tilaisuuksissa, kuten Assembly Summer 2014 ja Chaos Communication Camp 2015 (Saksa).
 
 ### Urpobotti
 > Kisarobotti sokkeloradalle. Valmistunut tapahtumaan Hacklab Summit Finland 2015.
+
+### Helsingin energiakartta
+> Sähkötalon näyttelyaulaan 2014 valmistunut infograafinen energiansiirtoa kuvaava sähköinen kartta.
 
 # Yhteistyö
 
@@ -66,7 +68,7 @@ Kotimaiset tapahtumat
 * Assembly Summer 2010, 2011, 2012, 2013, 2014, 2015 (Helsinki)
 * Alt Party 2010, 2011 (Helsinki)
 * Wärk:fest 2012, 2013 (Helsinki)
-* Mini Maker Faire 2015 (Helsinki)
+* Mini Maker Faire 2015 (Espoo)
 * Tekniikan päivät 2015 (Helsinki)
 
 Ulkomaiset tapahtumat
