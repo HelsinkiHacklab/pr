@@ -66,11 +66,14 @@ Kotimaiset tapahtumat
 * Hacklab Summit Finland 2012, 2013, 2014, 2015, 2016 (Tampere)
 * Model Expo 2010, 2012, 2013, 2014, 2016 (Helsinki)
 * Assembly Summer 2010, 2011, 2012, 2013, 2014, 2015 (Helsinki)
-* Alt Party 2010, 2011 (Helsinki)
-* Wärk:fest 2012, 2013 (Helsinki)
 * Mini Maker Faire 2015 (Espoo)
 * Tekniikan päivät 2015 (Helsinki)
+* Wärk:fest 2012, 2013 (Helsinki)
+* Camp Pixelache 2012 (Helsinki)
+* Reaktori-tapahtuma 2012 (Helsinki)
+* Alt Party 2010, 2011 (Helsinki)
 
 Ulkomaiset tapahtumat
 * Chaos Communication Camp 2015 (Mildenberg, Saksa)
 * Technohack 2014 (Tallinna)
+* OHM2013 (Alankomaat)
