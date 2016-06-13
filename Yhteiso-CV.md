@@ -1,22 +1,22 @@
 # Helsinki Hacklab ry.
 ### Yhteisö-CV
 
-*Huhtikuu 2016*
+*Kesäkuu 2016*
 
 Helsinki Hacklab ry. on pääkaupunkiseudulla toimiva harrastajayhdistys ja osa kansainvälisestä Hackerspace-liikettä. Olemme itsenäinen, riippumaton ja omaehtoisesti toimiva yhteisö, joka ylläpitää avointa rakenteluun ja projektien toteuttamiseen keskittyvää työtilaa Pitäjänmäessä. Helsinki Hacklab on toiminut yli viisi vuotta pääosin jäsentensä rahoittamana, ja sillä on ollut omat työtilat kesäkuusta 2010 alkaen. Yhdistys oli Suomessa ensimmäisten joukossa tekemässä 3D-tulostamista tutuksi laajalle yleisölle. Yhdistys on aktiivinen toiminnastaan tiedottaja, kirjoittaa omaa blogia sekä julkaisee useita kymmeniä valokuvia toiminnastaan joka kuukausi.
 
 Helsinki Hacklabin työtila on kooltaan 215 neliömetrin verstas, jossa on omat huoneet puu-, metalli- ja elektroniikkatyölle. Lisäksi työtilasta löytyy koulutustila, varastointimahdollisuus sekä keittiönurkkaus. Tila on kunnostettu harrastekäyttöön talkoovoimin.
 
-# Yhdistyksen järjestämä avoin ja ilmainen koulutus
+# Yhdistyksen järjestämät toistuvat avoimet ja ilmaiset koulutukset
 
 ### Arduinon ja elektroniikan alkeiskurssit
-> Alkeiskursseja aloittelijoille, jotka haluavat oppia elektroniikan ja sulautettujen järjestelmien rakentamisen perusteita. Pyritty järjestämään joka vuosi vähintään kerran tai useammin.
+> Alkeiskursseja aloittelijoille, jotka haluavat oppia elektroniikan ja sulautettujen järjestelmien rakentamisen perusteita. Pyritty järjestämään joka vuosi vähintään kerran tai useammin. Ilmainen osallistujille.
 
 ### Edistyneempi digitaalitekniikka
-> Pitkäaikainen kurssisarja, joka alkaa digitaalitekniikan perusteista ja etenee opiskelijoiden ja opettajien osaamisen mukana edistyneempiin tekniikoihin (korkeakouluopetuksen vaatimustasoon verrattava kurssi).
+> Jäsenille suunnattu pitkäaikainen kurssisarja, joka alkaa digitaalitekniikan perusteista ja etenee opiskelijoiden ja opettajien osaamisen mukana edistyneempiin tekniikoihin (korkeakouluopetuksen vaatimustasoon verrattava kurssi).
 
 ### CNC-koneistus
-> Kurssilla opiskeltiin kolmiakselisen CNC-työstöaseman käytön perusteita ja ohjelmakoodien kirjoittamista.
+> Kurssin aiheena kolmiakselisen CNC-työstöaseman käytön perusteet ja ohjelmakoodien kirjoittaminen.
 
 ### Viikonloppu- ja teemakurssit
 > Satunnaisia kursseja vaihtelevista aiheista kiinnostuksen ja jäsenten osaamisen mukaan, kuten esimerkiksi piirilevyjen valmistus, retrolaitteet ja CAD-mallinnus.
