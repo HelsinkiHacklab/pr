@@ -7,7 +7,7 @@ Helsinki Hacklab ry. on pääkaupunkiseudulla toimiva harrastajayhdistys ja osa 
 
 Helsinki Hacklabin työtila on kooltaan 215 neliömetrin verstas, jossa on omat huoneet puu-, metalli- ja elektroniikkatyölle. Lisäksi työtilasta löytyy koulutustila, varastointimahdollisuus sekä keittiönurkkaus. Tila on kunnostettu harrastekäyttöön talkoovoimin.
 
-# Yhdistyksen järjestämät toistuvat avoimet ja ilmaiset koulutukset
+# Yhdistyksen järjestämät toistuvat avoimet koulutukset
 
 ### Arduinon ja elektroniikan alkeiskurssit
 > Alkeiskursseja aloittelijoille, jotka haluavat oppia elektroniikan ja sulautettujen järjestelmien rakentamisen perusteita. Pyritty järjestämään joka vuosi vähintään kerran tai useammin. Ilmainen osallistujille.
