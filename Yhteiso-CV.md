@@ -25,6 +25,9 @@ Lisäksi säännöllisessä viikkotoiminnassa on mahdollisuus kehittää taitoja
 
 # Oma tuotanto
 
+### Robotit Strömbergin puistossa
+> Ilmainen koko perheen yleisötapahtuma kesäkuussa 2016. Ympäri Suomea paikalle saapuneet kisarobotit seikkailivat sokkelossa. Koptereiden lennätysnäytöksiä.
+
 ### Reaktori
 > Mediataideteos, simulaatio ja peli. Ensiesiintyminen Alternative Party -tapahtumassa 22.-24.10.2010. Esiintynyt myös muissa tilaisuuksissa, kuten Assembly Summer 2014 ja Chaos Communication Camp 2015 (Saksa).
 
@@ -36,8 +39,11 @@ Lisäksi säännöllisessä viikkotoiminnassa on mahdollisuus kehittää taitoja
 
 # Yhteistyö
 
+### *Bad Gateways*, Johannes Rantapuska, 2016
+> Yhdistyksen jäseniä oli auttamassa teoksen teknisessä toteutuksessa, jossa kuntopyörän polkemistahti ohjasi esitettävän videon esitysnopeutta. Esillä HAM-galleriassa kesällä 2016.
+
 ### Kussiyhteistyö, HY:n tietojenkäsittelytieteen laitos, 2015
-> Työtilamme ja välineemme olivat opiskelijoiden käytettävissä keväällä 2015 Exactum Greenhouse -projektiin liittyvissä harjoitustöissä. 
+> Työtilamme ja välineemme olivat opiskelijoiden käytettävissä keväällä 2015 Exactum Greenhouse -projektiin liittyvissä harjoitustöissä.
 
 ### *D-A-T/D-A*, KNPSST, 2015
 > Tanssia, sensoreita, liikettä, ääntä ja efektejä yhdistelevä teos. Monialaisessa osallistujaryhmässä oli mukana myös Helsinki Hacklabin jäseniä. Yhteistyöprojekti Koneen Säätiön Saaren taiteilijaresidensissä kesällä 2015.
@@ -60,7 +66,7 @@ Näiden lisäksi useita erilaisia itse rakennettuja tai suunniteltuja projekteja
 # Tapahtumiin osallistuminen ja niiden järjestäminen
 
 Itse järjestämät tapahtumat
-* Hacklab Summit Finland 2015½, 2016½ (tulossa)
+* Hacklab Summit Finland 2015½, 2016½
 
 Kotimaiset tapahtumat
 * Hacklab Summit Finland 2012, 2013, 2014, 2015, 2016 (Tampere)
