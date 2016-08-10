@@ -61,6 +61,9 @@ Helsinki Hacklab ry. tekee jatkuvaa yhteistyötä ja pitää yhteyttä muiden Su
 ### Metronäyttö, sooda, 2013
 > Assembly Summer 2013 Real Wild -demoskenekilpailun voittaja. Helsingin metron käytöstä poistetun infonäytön uusiokäyttö ja tekniikkademo.
 
+### Kierrätin, Jari Kangas, 2012
+> Elektroniikkaromusta ja muusta jätteestä rakennettu kuularata. Ollut esillä useissa tapahtumissa, nykyisin lainassa tiedekeskus Heurekassa.
+
 Näiden lisäksi useita erilaisia itse rakennettuja tai suunniteltuja projekteja, laitteita, kierrätystaidetta, henkilökohtaiseen käyttöön tarkoitettuja rakenelmia ja uusia työvälineitä. Yhdistyksen jäsenistöön kuuluu aktiivisia demoskene-taiteen tekijöitä, ja Assembly Summer 2014 -tapahtumassa yhdistyksemme jäseniä oli kahden parhaan Real Wild -kilpailuteoksen takana.
 
 # Tapahtumiin osallistuminen ja niiden järjestäminen
