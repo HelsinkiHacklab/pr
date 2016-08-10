@@ -39,8 +39,8 @@ Lisäksi säännöllisessä viikkotoiminnassa on mahdollisuus kehittää taitoja
 
 # Yhteistyö
 
-### *Bad Gateways*, Johannes Rantapuska, 2016
-> Yhdistyksen jäseniä oli auttamassa teoksen teknisessä toteutuksessa, jossa kuntopyörän polkemistahti ohjasi esitettävän videon esitysnopeutta. Esillä HAM-galleriassa kesällä 2016.
+### *Useless Exericse*, Johannes Rantapuska ja Helsinki Hacklab, 2016
+> Yhdistyksen jäseniä oli auttamassa teoksen teknisessä toteutuksessa, jossa kuntopyörän polkemistahti ohjasi esitettävän videon esitysnopeutta. Esillä HAM-galleriassa kesällä 2016 ja hankittu Helsingin kaupunginmuseon kokoelmiin.
 
 ### Kussiyhteistyö, HY:n tietojenkäsittelytieteen laitos, 2015
 > Työtilamme ja välineemme olivat opiskelijoiden käytettävissä keväällä 2015 Exactum Greenhouse -projektiin liittyvissä harjoitustöissä.
@@ -71,7 +71,7 @@ Itse järjestämät tapahtumat
 Kotimaiset tapahtumat
 * Hacklab Summit Finland 2012, 2013, 2014, 2015, 2016 (Tampere)
 * Model Expo 2010, 2012, 2013, 2014, 2016 (Helsinki)
-* Assembly Summer 2010, 2011, 2012, 2013, 2014, 2015 (Helsinki)
+* Assembly Summer 2010, 2011, 2012, 2013, 2014, 2015, 2016 (Helsinki)
 * Mini Maker Faire 2015 (Espoo)
 * Tekniikan päivät 2015 (Helsinki)
 * Wärk:fest 2012, 2013 (Helsinki)
