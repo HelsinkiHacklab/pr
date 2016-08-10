@@ -1,11 +1,11 @@
 # Helsinki Hacklab ry.
 ### Yhteisö-CV
 
-*Kesäkuu 2016*
+*Elokuu 2016*
 
-Helsinki Hacklab ry. on pääkaupunkiseudulla toimiva harrastajayhdistys ja osa kansainvälisestä Hackerspace-liikettä. Olemme itsenäinen, riippumaton ja omaehtoisesti toimiva yhteisö, joka ylläpitää avointa rakenteluun ja projektien toteuttamiseen keskittyvää työtilaa Pitäjänmäessä. Helsinki Hacklab on toiminut yli viisi vuotta pääosin jäsentensä rahoittamana, ja sillä on ollut omat työtilat kesäkuusta 2010 alkaen. Yhdistys oli Suomessa ensimmäisten joukossa tekemässä 3D-tulostamista tutuksi laajalle yleisölle. Yhdistys on aktiivinen toiminnastaan tiedottaja, kirjoittaa omaa blogia sekä julkaisee useita kymmeniä valokuvia toiminnastaan joka kuukausi.
+Helsinki Hacklab ry. on pääkaupunkiseudulla toimiva harrastajayhdistys ja osa kansainvälisestä Hackerspace-liikettä. Olemme itsenäinen, riippumaton ja omaehtoisesti toimiva yhteisö, joka ylläpitää avointa rakenteluun ja projektien toteuttamiseen keskittyvää työtilaa Pitäjänmäessä. Helsinki Hacklab on toiminut yli kuusi vuotta pääosin jäsentensä rahoittamana, ja sillä on ollut omat työtilat kesäkuusta 2010 alkaen. Yhdistys oli Suomessa ensimmäisten joukossa tekemässä 3D-tulostamista tutuksi laajalle yleisölle. Yhdistys on aktiivinen toiminnastaan tiedottaja, kirjoittaa omaa blogia sekä julkaisee useita kymmeniä valokuvia toiminnastaan joka kuukausi.
 
-Helsinki Hacklabin työtila on kooltaan 215 neliömetrin verstas, jossa on omat huoneet puu-, metalli- ja elektroniikkatyölle. Lisäksi työtilasta löytyy koulutustila, varastointimahdollisuus sekä keittiönurkkaus. Tila on kunnostettu harrastekäyttöön talkoovoimin.
+Helsinki Hacklabin työtila on kooltaan 215 neliömetrin verstas, jossa on omat huoneet puu-, metalli- ja elektroniikkatyölle. Lisäksi työtilasta löytyy koulutustila, maalauskoppi, varastointimahdollisuus sekä keittiönurkkaus. Tila on kunnostettu harrastekäyttöön talkoovoimin.
 
 # Yhdistyksen järjestämät toistuvat avoimet koulutukset
 
@@ -26,7 +26,7 @@ Lisäksi säännöllisessä viikkotoiminnassa on mahdollisuus kehittää taitoja
 # Oma tuotanto
 
 ### Robotit Strömbergin puistossa
-> Ilmainen koko perheen yleisötapahtuma kesäkuussa 2016. Ympäri Suomea paikalle saapuneet kisarobotit seikkailivat sokkelossa. Koptereiden lennätysnäytöksiä.
+> Ilmainen koko perheen yleisötapahtuma kesäkuussa 2016. Ympäri Suomea paikalle saapuneet kisarobotit seikkailivat sokkelossa. Pienoiskoptereiden lennätysnäytöksiä.
 
 ### Reaktori
 > Mediataideteos, simulaatio ja peli. Ensiesiintyminen Alternative Party -tapahtumassa 22.-24.10.2010. Esiintynyt myös muissa tilaisuuksissa, kuten Assembly Summer 2014 ja Chaos Communication Camp 2015 (Saksa).
@@ -51,7 +51,7 @@ Lisäksi säännöllisessä viikkotoiminnassa on mahdollisuus kehittää taitoja
 ### *Unista herätetyt*, Harri Larjosto, 2013
 > Helsinki Hacklab ry. osallistui robotiikkaa sisältäneen teoksen tekniseen suunnitteluun ja toteutukseen. Esillä Vantaan taidemuseossa loppuvuodesta 2013.
 
-Helsinki Hacklab ry. tekee jatkuvaa yhteistyötä ja pitää yhteyttä muiden Suomen Hacklab-yhdistysten sekä Suomen Avaruustutkimusseuran kanssa
+Helsinki Hacklab ry. tekee jatkuvaa yhteistyötä ja pitää yhteyttä muiden Suomen Hacklab-yhdistysten sekä Suomen Avaruustutkimusseuran kanssa.
 
 # Jäsenten omia teoksia ja demoskenetoiminta
 
@@ -61,7 +61,7 @@ Helsinki Hacklab ry. tekee jatkuvaa yhteistyötä ja pitää yhteyttä muiden Su
 ### Metronäyttö, sooda, 2013
 > Assembly Summer 2013 Real Wild -demoskenekilpailun voittaja. Helsingin metron käytöstä poistetun infonäytön uusiokäyttö ja tekniikkademo.
 
-Näiden lisäksi useita erilaisia itse rakennettuja tai suunniteltuja projekteja, laitteita, kierrätystaidetta, henkilökohtaiseen käyttöön tarkoitettuja rakenelmia ja uusia työvälineitä. Assembly Summer 2014 -tapahtumassa yhdistyksemme jäseniä oli kahden parhaan Real Wild -kilpailuteosten tekijöissä.
+Näiden lisäksi useita erilaisia itse rakennettuja tai suunniteltuja projekteja, laitteita, kierrätystaidetta, henkilökohtaiseen käyttöön tarkoitettuja rakenelmia ja uusia työvälineitä. Yhdistyksen jäsenistöön kuuluu aktiivisia demoskene-taiteen tekijöitä, ja Assembly Summer 2014 -tapahtumassa yhdistyksemme jäseniä oli kahden parhaan Real Wild -kilpailuteoksen takana.
 
 # Tapahtumiin osallistuminen ja niiden järjestäminen
 
