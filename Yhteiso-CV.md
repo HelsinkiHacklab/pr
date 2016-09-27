@@ -39,6 +39,9 @@ Lisäksi säännöllisessä viikkotoiminnassa on mahdollisuus kehittää taitoja
 
 # Yhteistyö
 
+### *Oodi elämälle*, Ville Malja ja Helsinki Hacklab, 2016
+> Helsinki Hacklab toteutti teokseen suurikokoisen segmenttinäytön ja sen ohjauselektroniikan. Nähtävillä Creat Space -galleriassa syksyllä 2016.
+
 ### *Useless Exericse*, Johannes Rantapuska ja Helsinki Hacklab, 2016
 > Yhdistyksen jäseniä oli auttamassa teoksen teknisessä toteutuksessa, jossa kuntopyörän polkemistahti ohjasi esitettävän videon esitysnopeutta. Esillä HAM-galleriassa kesällä 2016 ja hankittu Helsingin kaupunginmuseon kokoelmiin.
 
@@ -84,5 +87,5 @@ Kotimaiset tapahtumat
 
 Ulkomaiset tapahtumat
 * Chaos Communication Camp 2015 (Mildenberg, Saksa)
-* Technohack 2014 (Tallinna)
+* Tehnohack 2014 (Tallinna)
 * OHM2013 (Alankomaat)
