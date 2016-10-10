@@ -1,7 +1,7 @@
 # Helsinki Hacklab ry.
 ### Yhteisö-CV
 
-*Syyskuu 2016*
+*Lokakuu 2016*
 
 Helsinki Hacklab ry. on pääkaupunkiseudulla toimiva harrastajayhdistys ja osa kansainvälistä Hackerspace-liikettä. Olemme itsenäinen, riippumaton ja omaehtoisesti toimiva yhteisö, joka ylläpitää avointa rakenteluun ja projektien toteuttamiseen keskittyvää työtilaa Pitäjänmäessä. Helsinki Hacklab on toiminut yli kuusi vuotta pääosin jäsentensä rahoittamana, ja sillä on ollut omat työtilat kesäkuusta 2010 alkaen. Yhdistys oli Suomessa ensimmäisten joukossa tekemässä 3D-tulostamista tutuksi laajalle yleisölle. Yhdistys on aktiivinen toiminnastaan tiedottaja, kirjoittaa omaa blogia sekä julkaisee useita kymmeniä valokuvia toiminnastaan joka kuukausi.
 
@@ -54,7 +54,7 @@ Lisäksi säännöllisessä viikkotoiminnassa on mahdollisuus kehittää taitoja
 ### *Unista herätetyt*, Harri Larjosto, 2013
 > Helsinki Hacklab ry. osallistui robotiikkaa sisältäneen teoksen tekniseen suunnitteluun ja toteutukseen. Esillä Vantaan taidemuseossa loppuvuodesta 2013.
 
-Helsinki Hacklab ry. tekee jatkuvaa yhteistyötä ja pitää yhteyttä muiden Suomen Hacklab-yhdistysten sekä Suomen Avaruustutkimusseuran kanssa.
+Helsinki Hacklab ry. tekee jatkuvaa yhteistyötä ja pitää yhteyttä muiden Suomen Hacklab-yhdistysten sekä Suomen Avaruustutkimusseuran kanssa. 2015 teimme yhteistyötä Apu-paku ry.:n kanssa: lähetimme Linux-tietokoneita Gambiaan ja opastimme Apu-pakun paikalliseen kouluun lähteneitä opettajia niiden käytössä.
 
 # Jäsenten omia teoksia ja demoskenetoiminta
 
